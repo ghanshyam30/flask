@@ -1,6 +1,7 @@
 from flask import Flask
 app = Flask(__name__)
 
+########### Basic GET Requests #############
 @app.route('/')
 def get_api():
     return "successful api request."
