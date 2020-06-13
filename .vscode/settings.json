@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/thebadcoder/.local/share/virtualenvs/flask-VT8SOKlh/bin/python"
+}
